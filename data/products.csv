@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_price,weight_kg
+P001,Laptop,Electronics,850,1.8
+P002,Wireless Mouse,Electronics,25,0.1
+P003,Mechanical Keyboard,Electronics,70,0.8
+P004,Office Chair,Furniture,180,12.5
+P005,Desk Lamp,Home,35,1.2
+P006,Monitor 27 inch,Electronics,300,5.5
+P007,Standing Desk,Furniture,450,28.0
+P008,USB-C Hub,Electronics,45,0.2
+P009,Storage Box,Home,20,2.0
+P010,Headphones,Electronics,90,0.3
