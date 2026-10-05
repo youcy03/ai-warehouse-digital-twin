@@ -1,0 +1,6 @@
+product_id,current_stock,days_of_supply,replenishment_priority,service_level,stockout_days,stockout_qty,forecast_based_reorder_qty,recommendation,severity_rank
+P002,8,0.42,Critical,15.09,13,225,32,Replenish Immediately,0
+P006,3,0.42,Critical,15.15,12,84,12,Replenish Immediately,0
+P010,6,0.51,Critical,18.4,12,133,24,Replenish Immediately,0
+P004,4,0.92,Critical,32.26,10,42,16,Replenish Immediately,0
+P008,25,1.75,High,19.9,12,161,15,Increase Reorder Quantity,1
