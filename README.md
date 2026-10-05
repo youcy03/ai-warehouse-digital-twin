@@ -276,6 +276,22 @@ The project produced several useful insights:
 
 ---
 
+## Dashboard Preview
+
+### Warehouse Overview
+
+![Warehouse Dashboard Overview](assets/dashboard_overview.png)
+
+### Product Explorer
+
+![Product Explorer](assets/product_explorer.png)
+
+### Decision Engine
+
+![Decision Engine Overview](assets/decision_engine.png)
+
+---
+
 ## Technology Stack
 
 - Python
